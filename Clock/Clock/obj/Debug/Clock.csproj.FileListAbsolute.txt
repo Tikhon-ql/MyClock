@@ -1,0 +1,62 @@
+D:\Тихон\WPF\Home Tasks\Clock\Clock\bin\Debug\Clock.exe.config
+D:\Тихон\WPF\Home Tasks\Clock\Clock\bin\Debug\Clock.exe
+D:\Тихон\WPF\Home Tasks\Clock\Clock\bin\Debug\Clock.pdb
+D:\Тихон\WPF\Home Tasks\Clock\Clock\obj\Debug\Clock.csprojAssemblyReference.cache
+D:\Тихон\WPF\Home Tasks\Clock\Clock\obj\Debug\DigitalClock.g.cs
+D:\Тихон\WPF\Home Tasks\Clock\Clock\obj\Debug\MainWindow.g.cs
+D:\Тихон\WPF\Home Tasks\Clock\Clock\obj\Debug\App.g.cs
+D:\Тихон\WPF\Home Tasks\Clock\Clock\obj\Debug\Clock_MarkupCompile.cache
+D:\Тихон\WPF\Home Tasks\Clock\Clock\obj\Debug\Clock_MarkupCompile.lref
+D:\Тихон\WPF\Home Tasks\Clock\Clock\obj\Debug\DigitalClock.baml
+D:\Тихон\WPF\Home Tasks\Clock\Clock\obj\Debug\MainWindow.baml
+D:\Тихон\WPF\Home Tasks\Clock\Clock\obj\Debug\Clock.g.resources
+D:\Тихон\WPF\Home Tasks\Clock\Clock\obj\Debug\Clock.Properties.Resources.resources
+D:\Тихон\WPF\Home Tasks\Clock\Clock\obj\Debug\Clock.csproj.GenerateResource.cache
+D:\Тихон\WPF\Home Tasks\Clock\Clock\obj\Debug\Clock.csproj.CoreCompileInputs.cache
+D:\Тихон\WPF\Home Tasks\Clock\Clock\obj\Debug\Clock.exe
+D:\Тихон\WPF\Home Tasks\Clock\Clock\obj\Debug\Clock.pdb
+C:\Users\Developer\Desktop\Clock\Clock\bin\Debug\Clock.exe.config
+C:\Users\Developer\Desktop\Clock\Clock\bin\Debug\Clock.exe
+C:\Users\Developer\Desktop\Clock\Clock\bin\Debug\Clock.pdb
+C:\Users\Developer\Desktop\Clock\Clock\obj\Debug\Clock.csprojAssemblyReference.cache
+C:\Users\Developer\Desktop\Clock\Clock\obj\Debug\DigitalClock.g.cs
+C:\Users\Developer\Desktop\Clock\Clock\obj\Debug\MainWindow.g.cs
+C:\Users\Developer\Desktop\Clock\Clock\obj\Debug\App.g.cs
+C:\Users\Developer\Desktop\Clock\Clock\obj\Debug\Clock_MarkupCompile.cache
+C:\Users\Developer\Desktop\Clock\Clock\obj\Debug\Clock_MarkupCompile.lref
+C:\Users\Developer\Desktop\Clock\Clock\obj\Debug\DigitalClock.baml
+C:\Users\Developer\Desktop\Clock\Clock\obj\Debug\MainWindow.baml
+C:\Users\Developer\Desktop\Clock\Clock\obj\Debug\Clock.g.resources
+C:\Users\Developer\Desktop\Clock\Clock\obj\Debug\Clock.Properties.Resources.resources
+C:\Users\Developer\Desktop\Clock\Clock\obj\Debug\Clock.csproj.GenerateResource.cache
+C:\Users\Developer\Desktop\Clock\Clock\obj\Debug\Clock.csproj.CoreCompileInputs.cache
+C:\Users\Developer\Desktop\Clock\Clock\obj\Debug\Clock.exe
+C:\Users\Developer\Desktop\Clock\Clock\obj\Debug\Clock.pdb
+D:\Тихон\WPF\Home Tasks\Clock\Clock\obj\Debug\DialClock.g.cs
+D:\Тихон\WPF\Home Tasks\Clock\Clock\obj\Debug\DialClock.baml
+C:\Users\Developer\Desktop\Clock\Clock\obj\Debug\DialClock.baml
+C:\Users\Developer\Desktop\Clock\Clock\obj\Debug\DialClock.g.cs
+D:\Тихон\WPF\Clock\Clock\bin\Debug\Clock.exe.config
+D:\Тихон\WPF\Clock\Clock\bin\Debug\Clock.exe
+D:\Тихон\WPF\Clock\Clock\bin\Debug\Clock.pdb
+D:\Тихон\WPF\Clock\Clock\obj\Debug\Clock.csprojAssemblyReference.cache
+D:\Тихон\WPF\Clock\Clock\obj\Debug\DialClock.baml
+D:\Тихон\WPF\Clock\Clock\obj\Debug\DialClock.g.cs
+D:\Тихон\WPF\Clock\Clock\obj\Debug\DigitalClock.g.cs
+D:\Тихон\WPF\Clock\Clock\obj\Debug\MainWindow.g.cs
+D:\Тихон\WPF\Clock\Clock\obj\Debug\App.g.cs
+D:\Тихон\WPF\Clock\Clock\obj\Debug\Clock_Content.g.cs
+D:\Тихон\WPF\Clock\Clock\obj\Debug\Clock_MarkupCompile.cache
+D:\Тихон\WPF\Clock\Clock\obj\Debug\Clock_MarkupCompile.lref
+D:\Тихон\WPF\Clock\Clock\obj\Debug\DigitalClock.baml
+D:\Тихон\WPF\Clock\Clock\obj\Debug\MainWindow.baml
+D:\Тихон\WPF\Clock\Clock\obj\Debug\Clock.g.resources
+D:\Тихон\WPF\Clock\Clock\obj\Debug\Clock.Properties.Resources.resources
+D:\Тихон\WPF\Clock\Clock\obj\Debug\Clock.csproj.GenerateResource.cache
+D:\Тихон\WPF\Clock\Clock\obj\Debug\Clock.csproj.CoreCompileInputs.cache
+D:\Тихон\WPF\Clock\Clock\obj\Debug\Clock.exe
+D:\Тихон\WPF\Clock\Clock\obj\Debug\Clock.pdb
+D:\Тихон\WPF\Clock\Clock\obj\Debug\Alarm.g.cs
+D:\Тихон\WPF\Clock\Clock\obj\Debug\Alarm.baml
+D:\Тихон\WPF\Clock\Clock\obj\Debug\AlarmMessage.g.cs
+D:\Тихон\WPF\Clock\Clock\obj\Debug\AlarmMessage.baml

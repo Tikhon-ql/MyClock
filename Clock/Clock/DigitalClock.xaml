@@ -1,0 +1,26 @@
+﻿<Window x:Class="Clock.DigitalClock"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Clock"
+        mc:Ignorable="d"
+        Title="DigitalClock" 
+        Height="161" 
+        Width="323" 
+        ResizeMode="NoResize"
+        Loaded="Window_Loaded" AllowsTransparency="True" WindowStyle="None">
+
+    <Label x:Name="label"
+                 Grid.Column="0" 
+                 Background="#FF222336" 
+                 Foreground="#FF1EC361"
+                 FontSize="80"
+                 HorizontalContentAlignment="Center"
+                 VerticalContentAlignment="Center" MouseLeftButtonDown="label_MouseLeftButtonDown"  
+            >
+        <Label.ToolTip>
+            <ToolTip Content="Чтобы выйти нажмите 'Close digital clock'"/>
+        </Label.ToolTip>
+    </Label>
+</Window>
