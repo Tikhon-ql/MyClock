@@ -136,6 +136,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Resources\blows.wav" />
+    <Resource Include="UML\MyClock.png" />
     <Resource Include="Resources\myclock.png" />
     <None Include="Resources\Wind.wav" />
     <None Include="Resources\fluttering.wav" />

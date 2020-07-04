@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-D:\Тихон\WPF\Clock\Clock\obj\Debug\
+D:\Тихон\Git\MyClock\Clock\Clock\obj\Debug\
 Clock
 none
 false
 DEBUG;TRACE
-D:\Тихон\WPF\Clock\Clock\App.xaml
+D:\Тихон\Git\MyClock\Clock\Clock\App.xaml
 5-650616706
 11707756085
 15246657249
 15-2108434987
 Alarm.xaml;AlarmMessage.xaml;DialClock.xaml;DigitalClock.xaml;MainWindow.xaml;
 
-True
+False
 
